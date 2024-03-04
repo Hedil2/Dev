@@ -23,7 +23,7 @@ public class CategorieProduit implements Serializable {
 	/**
 	 * 
 	 */
-	private static final long serialVersionUID = 3L;//1l
+	private static final long serialVersionUID = 4L;//1l
 	@Id
 	@GeneratedValue(strategy = GenerationType.IDENTITY)
 	private Long idCategorieProduit;
